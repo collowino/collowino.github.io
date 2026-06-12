@@ -1,129 +1,66 @@
-==================================================================================================
+# Collins Owino – Professional Portfolio
 
-DESCRIPTION:
+## Overview
 
-HUDSON is a simple and modern free personal website template designed for creatives and 
-professionals who want to showcase their skills and work in an eye-catching way. Its simple yet 
-sophisticated design is perfect for anyone who wants to create a polished and professional online 
-presence without spending a lot of time or money on web development.
+Welcome to my professional portfolio website. This platform showcases my experience, expertise, achievements, and contributions in the fields of Economics, Business Advisory, Project Management, Entrepreneurship Development, Research, Grants Management, and Community Development.
 
-==================================================================================================
+With extensive experience working across youth empowerment, agribusiness, enterprise development, and strategic partnerships, I am committed to creating sustainable solutions that drive economic growth, strengthen organizations, and improve livelihoods.
 
+## About Me
 
-LICENSE:
+I am an Economist, Business Advisor, and Project Management Professional with a strong background in business development, entrepreneurship training, grants administration, stakeholder engagement, and data-driven decision-making. My work focuses on empowering entrepreneurs, youth, women, and organizations through innovative strategies that promote sustainable development and long-term impact.
 
-This free resource is provided by styleshout.com and is free to use in 
-both personal and commercial projects.
+## Areas of Expertise
 
+* Business Strategy & Analysis
+* Project Management
+* Grants Management
+* Entrepreneurship Development
+* Business Advisory Services
+* Economic Research & Analysis
+* Monitoring, Evaluation & Learning (MEL)
+* Financial Management
+* Stakeholder Engagement
+* Partnership Development
+* Agribusiness Development
+* Training & Capacity Building
 
-Rights:
--------
+## Key Achievements
 
-You are permitted to use this free resource in any number of personal and commercial projects for 
-yourself or a client. You may modify the resource according to your requirements and include them 
-in your projects under the following condition - you MUST give appropriate credit, provide an 
-attribution link to styleshout.com.
+* Trained over 3,500 individuals in entrepreneurship, financial management, workforce readiness, and business development.
+* Mentored and supported over 600 entrepreneurs and startup enterprises.
+* Facilitated access to grant funding for youth-led businesses and community initiatives.
+* Built strategic partnerships with government agencies, development organizations, educational institutions, and private sector stakeholders.
+* Contributed to high-impact projects focused on youth empowerment, enterprise development, financial inclusion, and sustainable economic growth.
 
+## Professional Experience
 
-Prohibitions:
--------------
+My experience spans multiple development and business support initiatives, including:
 
-You are not permitted to resell or redistribute(even for free) the resource "as is" without 
-prior consent. If you would like to republish or promote this resource on your site, please 
-link back to the appropriate resource page on styleshout.com where users can find the download 
-and not directly to the download zip file.
+* USAID Empowered Youth Activity
+* Agriculture and Food Authority (AFA) Projects
+* ENABLE Youth Program
+* Ustadi Vijabiz Project
+* STEP Kenya
+* Various business advisory, research, and entrepreneurship development initiatives
 
+## Certifications & Professional Development
 
-Attribution: 
-------------
+Professional training and certifications from:
 
-You must include a credit link to our website(https://styleshout.com) somewhere on your site. 
-We prefer the footer credit that comes with the template but you are still free to move it 
-somewhere else.
+* Strathmore Business School
+* International Trade Centre (ITC)
+* International Labour Organization (ILO)
+* USAID
+* Michigan State University
+* Google Digital Skills Academy
+* UTSA Center for Global Development
+* Egerton University
 
+## Contact
 
+For collaborations, consultancy engagements, project partnerships, research opportunities, or business advisory services, feel free to get in touch through the contact section of this website.
 
-If you have any questions about the License, feel free to contact us.
+---
 
-
------------------------------------------------------------------------------------------------------
-
-
-REMOVING THE ATTRIBUTION LINK:
-
-We understand that there are situations where you want to use our templates without 
-the crediting obligation. If that's your case, you can always send us a 
-credit removal fee of 10 USD through Paypal. This will allow you to use a single 
-template attribution/credit link free on ONE DOMAIN name.
-
-You can send your payments through Paypal to this address: ealigam@gmail.com or
-visit our attribution removal page: https://styleshout.com/attribution-free/ 
-and click the pay button on the page.
-
-If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
-
-
------------------------------------------------------------------------------------------------------- 
-
-
-SUPPORT:
-    
-Since HUDSON is distributed for free, support is not offered. HUDSON is coded according 
-to current web standards and we did our best to make the template easy to use and modify.
-If you have minimum web development experience, you can easily modify the template. 
-However, If you're still new to HTML and CSS, I suggest that you visit the 
-following tutorials:
-
- - https://marksheet.io/
- - http://learn.shayhowe.com/html-css/
-
-These will teach you the essentials of HTML and CSS. In addition, if you want to include
-javascript in your skill-set, you can also check out these tutorials: 
-
- - https://www.codecademy.com/learn/introduction-to-javascript
- - https://javascript.info/
-
-
-
-
--------------------------------------------------------------------------------------------------------
-
-
-GET THE LATEST VERSION:
-
-We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly on our website(https://styleshout.com/)
-
-
-
--------------------------------------------------------------------------------------------------------
-
-
-SOURCES AND CREDITS:
-
-I've used the following resources as listed.
-
-Fonts:
- - Castoro Font (https://fonts.google.com/specimen/Castoro)
- - Public Sans Font (https://fonts.google.com/specimen/Public+Sans)
-
-Icons:
- - Boxicons (https://boxicons.com/)
- - Iconmonstr (https://iconmonstr.com/)
-
-Stock Photos and Graphics:
- - Unsplash.com (https://unsplash.com/)
- 
-Javascript Files:
- - MoveTo.js (https://github.com/hsnaydd/moveTo)
- - Prism.js (https://prismjs.com/)
- - Swiper JS (https://swiperjs.com/)
- - GLightbox (https://biati-digital.github.io/glightbox/)
-
--------------------------------------------------------------------------------------------------------
-
-
-Thanks for downloading from StyleShout :)
-
-
+© 2026 Collins Owino. All Rights Reserved.
