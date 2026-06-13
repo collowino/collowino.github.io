@@ -3402,7 +3402,9 @@ td:last-child {
 .s-intro__content-pretitle {
     font-weight  : 600;
     margin-bottom: var(--vspace-0_125);
-    color        : var(--color-1);
+    color        : var(--color-gray-17);
+    font-family  : var(--base-font-size);
+    font-size    : var(--text-lg);
 }
 
 .s-intro__content-title {
@@ -3703,7 +3705,7 @@ td:last-child {
  * ------------------------------------------------------------------- */
 @media screen and (max-width: 1400px) {
     .s-intro__content-pretitle {
-        font-size  : var(--text-sm);
+        font-size  : var(--text-md);
         line-height: var(--vspace-0_75);
     }
 
