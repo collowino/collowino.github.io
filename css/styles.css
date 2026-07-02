@@ -445,8 +445,48 @@ section {
     display: block;
 }
 
+#top {
+    background-color: rgb(134, 50, 208);
+}
+
+#intro {
+    background-color: rgb(134, 50, 208);
+}
+
+#numbers {
+    background-color: rgb(134, 50, 208);
+}
+
+.row.s-testimonials {
+    background-color: rgb(134, 50, 208);
+}
+
+.grt {
+    color: rgb(241, 81, 18);
+}
+
+.s-intro__content-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 5.5rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+}
+
 body {
-    line-height: 1;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.s-header__menu-links a {
+    color: #f6a26d;
+    transition: all 0.3s ease;
+}
+
+.s-header__menu-links a:hover {
+    color: #e64405;
+    text-shadow:
+        0 0 10px #e64405,
+        0 0 20px #e64405,
+        0 0 40px #e64405;
 }
 
 ol,
